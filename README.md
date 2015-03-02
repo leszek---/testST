@@ -1,3 +1,4 @@
 # testST
 Test repo
-Jakieś tam pierwsze zmiany
+//Tu skasowałem coś
+Zmian ciąg dalszy, ale nie ostatni 
